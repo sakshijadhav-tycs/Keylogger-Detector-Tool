@@ -50,28 +50,41 @@ HOW IT WORKS
 SCREENSHOTS
 
 •	Main Interface
+
 Clean home screen with scanning options
+
+
+
 ![ss1](https://github.com/user-attachments/assets/3caf4854-1e85-4b52-aac1-e4c87add5210)
 
 
 •	Detection Progress
+
 Real-time progress bar during detection
+
+
+
 ![ss2](https://github.com/user-attachments/assets/432d7701-9b53-44a9-9742-796e2ea7c8fa)
 
 
 
 •	Results Window
+
 Detailed view of detected keyloggers with termination option
+
 ![ss3](https://github.com/user-attachments/assets/7d81f98d-6023-476f-849d-2353b781b0bb)
 ![ss4](https://github.com/user-attachments/assets/a1729949-1996-4377-8b37-d3d1059bf77d)
 
 	              
 •	Process Viewer
+
 Complete list of running processes
+
 ![ss5](https://github.com/user-attachments/assets/b59fdda9-1a7b-4191-b625-50fa21ec441a)
 
 
 •	System Health Info
+
 ![ss6](https://github.com/user-attachments/assets/83b2d513-1bd8-410f-bd49-1f4300c51df5)
 
 
